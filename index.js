@@ -1,3 +1,5 @@
+<script type="text/javascript">
+
 $(document).ready(function(){
   $('#jump').smoothScroll({speed:1500});
   
