@@ -1,5 +1,3 @@
-<script type="text/javascript">
-
 $(document).ready(function(){
   $('#jump').smoothScroll({speed:1500});
   
@@ -85,3 +83,5 @@ $(document).ready(function(){
 
 
 //end portfolio effects
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
